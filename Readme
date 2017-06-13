@@ -1,0 +1,4 @@
+Last line fish is simple ncurses viewer that uses entire screen for one data
+piece. It's hasn't status lines and it's waits before returning to command
+line. This programm just reads from stdin, puts data to stdout and waiting for
+keypress. After that it's properly cleans to left upper corner.
